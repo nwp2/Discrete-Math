@@ -95,5 +95,3 @@
 (print-crlf)
 (fibonacci 15)
 (last (stream->listn fibs 16))
-
-;;My code starts here
